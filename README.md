@@ -1,6 +1,6 @@
 # Práctica S9: Shaders — Lava Interactiva (*Tiny Code*)
 
-**Autor/a:** [Tu Nombre y Apellidos]  
+**Autor/a:** [Alejandro Celis Hernández Delgado]  
 **Asignatura:** Informática Gráfica  
 **Entorno de ejecución:** [The Book of Shaders Editor](https://editor.thebookofshaders.com/)
 
