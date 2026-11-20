@@ -138,10 +138,10 @@ void main() {
 2. Eliminar el código de ejemplo inicial y pegar cualquiera de las dos versiones anteriores.
 3. Mover el cursor sobre el lienzo para observar la deformación y el aumento de incandescencia local; retirar el cursor del área para comprobar el desvanecimiento automático.
 
-### Demo
+### Demo y capturas
 
-> Puedes ver el comportamiento dinámico y la interacción con el ratón en la siguiente demostración:
->
-> ![Demo Lava Interactiva](media/demo.gif)
->
-> *(Si subes el vídeo en formato `.mp4` a GitHub, solo tienes que arrastrarlo directamente al editor del `README.md` para que genere el reproductor incrustado, o enlazarlo como `[Ver vídeo demo](media/demo.mp4)`).*
+[▶ Ver vídeo de demostración (demo.mp4)](media/demo.mp4)
+
+| Estado en reposo | Interacción con el ratón |
+| :---: | :---: |
+| ![Estado en reposo](media/captura_reposo.png) | ![Interacción con el ratón](media/captura_raton.png) |
