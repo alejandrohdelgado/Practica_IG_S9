@@ -143,7 +143,6 @@ void main() {
 3. Mover el cursor sobre el lienzo para observar la deformación y el aumento de incandescencia local; retirar el cursor del área para comprobar el desvanecimiento automático.
 
 ### Capturas de resultado
-*(Sustituye las rutas siguientes por tus propias capturas antes de entregar)*
 
 | Estado en reposo | Interacción con el ratón |
 | :---: | :---: |
