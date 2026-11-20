@@ -145,3 +145,11 @@ void main() {
 | Estado en reposo | Interacción con el ratón |
 | :---: | :---: |
 | ![Estado en reposo](media/captura_reposo.png) | ![Interacción con el ratón](media/captura_raton.png) |
+
+
+## 6. Referencias
+
+- Patricio González Vivo y Jen Lowe (2021). *The Book of Shaders*. Disponible en: <https://thebookofshaders.com/>
+- Íñigo Quiles. *Domain Warping*. Disponible en: <https://iquilezles.org/articles/warp/>
+- Khronos Group. *OpenGL ES Shading Language (GLSL ES) Reference*. Disponible en: <https://registry.khronos.org/OpenGL-Refpages/es2.0/>
+- Guion de la Práctica S9: Shaders. Informática Gráfica, ULPGC.
